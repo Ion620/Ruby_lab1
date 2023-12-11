@@ -65,3 +65,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "nokogiri", "~> 1.15"
+
+gem "open-uri", "~> 0.4.1"
